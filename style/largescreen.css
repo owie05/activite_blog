@@ -256,4 +256,7 @@ main h2 {
 
 footer p{
   text-align: center;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  color: #333;
 }
