@@ -16,4 +16,4 @@ Pour mieux travailler le schema.org il est conseillé d'abord de faire une analy
 * Vérification de l'intégration des médias
 
 L'exercice sera noté exclusivement sur gitHub.
-[Voir la page](https://giusmili.github.io/activite_blog/ "blog")
+[Voir la page](https://owie05.github.io/activite_blog/index.html "blog")
